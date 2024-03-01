@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://b678cm3tfgotf"]
 
-[ext_resource type="PackedScene" uid="uid://km4ixva0sphp" path="res://body.tscn" id="2_fntjw"]
+[ext_resource type="PackedScene" uid="uid://km4ixva0sphp" path="res://ababa/body.tscn" id="2_fntjw"]
 [ext_resource type="Texture2D" uid="uid://cb4s5ebj3vs2w" path="res://TileSets/Terrain (32x32).png" id="2_galce"]
 
 [sub_resource type="Gradient" id="Gradient_sx2m4"]
